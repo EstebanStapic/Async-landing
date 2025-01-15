@@ -39,3 +39,4 @@ async function fetchData(urlApi) {
     console.log(err);
   }
 })();
+
